@@ -6,9 +6,29 @@
     <description>Recent content on komlow&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
+    <lastBuildDate>Thu, 11 Oct 2018 22:53:12 +0900</lastBuildDate>
     
-	<atom:link href="https://blog.komlow.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blog.komlow.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://blog.komlow.com/about/</link>
+      <pubDate>Thu, 11 Oct 2018 22:53:12 +0900</pubDate>
+      
+      <guid>https://blog.komlow.com/about/</guid>
+      <description>
+
+&lt;p&gt;komlowのブログです&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;links&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/komlow&#34;&gt;twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/komlow&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
