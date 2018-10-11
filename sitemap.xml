@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.komlow.com/about/</loc>
-    <lastmod>2018-10-11T22:53:12+09:00</lastmod>
+    <loc>https://blog.komlow.com/posts/first_post/</loc>
+    <lastmod>2018-10-12T00:13:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.komlow.com/categories/</loc>
+    <loc>https://blog.komlow.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.komlow.com/posts/</loc>
+    <lastmod>2018-10-12T00:13:41+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -19,7 +24,13 @@
   
   <url>
     <loc>https://blog.komlow.com/</loc>
-    <lastmod>2018-10-11T22:53:12+09:00</lastmod>
+    <lastmod>2018-10-12T00:13:41+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.komlow.com/tags/%E9%9B%91%E8%A8%98/</loc>
+    <lastmod>2018-10-12T00:13:41+09:00</lastmod>
     <priority>0</priority>
   </url>
   
